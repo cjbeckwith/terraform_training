@@ -3,6 +3,7 @@ terraform {
 }
 
 #changed this again
+#still trying to get this to work
 provider "aws" {
   version = "~> 1.20.0"
 }
