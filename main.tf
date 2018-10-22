@@ -2,6 +2,7 @@ terraform {
   required_version = ">= 0.11.0"
 }
 
+#changed this
 provider "aws" {
   version = "~> 1.20.0"
 }
